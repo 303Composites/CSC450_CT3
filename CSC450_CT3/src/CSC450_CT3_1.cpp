@@ -2,7 +2,7 @@
  * CSC450_CT3_1.cpp
  *
  *  Created on: May 14, 2020
- *      Author: Fred Shattell
+ *      Author: 303 Composites
  *
  */
 // C++ program to illustrate dynamic allocation
